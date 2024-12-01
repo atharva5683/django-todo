@@ -7,7 +7,15 @@ To get this repository, run the following command inside your git enabled termin
 ```bash
 $ git clone https://github.com/shreys7/django-todo.git
 ```
-You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
+Go to the directory
+```bash
+$ cd django-todo
+```
+You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide 
+OR
+```bash
+$ pip install django==3.2
+```
 
 Once you have downloaded django, go to the cloned repo directory and run the following command
 
